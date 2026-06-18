@@ -1,0 +1,19 @@
+{
+  "site": "欧美高分视频-高分影片排行榜-高清视频在线观看",
+  "logo": "欧美高分视频",
+  "movie_count": 2000,
+  "detail_pages": 2000,
+  "categories": {
+    "drama-art": 201,
+    "action-adventure": 201,
+    "suspense-crime": 201,
+    "romance-comedy": 201,
+    "fantasy-sci-fi": 200,
+    "history-war": 194,
+    "animation-family": 201,
+    "series-variety": 200,
+    "euro-american": 200,
+    "asian-cinema": 201
+  },
+  "cover_rule": "X = ((N - 1) % 150) + 1; images are referenced as 1.jpg to 150.jpg and not included in the ZIP."
+}
